@@ -9,6 +9,6 @@ Example usage:
   * Make sure all requirements are met (requests, abc)
   * Run: ./LinkedShell.py http://software.turnguard.com/chromium/start/linux
 * Other sample command chains
-  * Apache Mesos - 0.22.0 
+  * Apache Mesos - 0.22.0 (not fully tested as of writing)
      * turtle: http://software.turnguard.com/apache_mesos/0/22/0/installation/opensuse/13/2.ttl
      * sparql : http://goo.gl/6euq1I 
